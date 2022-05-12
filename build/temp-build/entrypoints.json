@@ -1,0 +1,15 @@
+{
+  "entrypoints": {
+    "app": {
+      "js": [
+        "https://cdn.eadplataforma.app/assets/master/site/main.2ac2c5b6077b193fc948.8.0.0.2.js",
+        "https://cdn.eadplataforma.app/assets/master/site/vendors~app.main.5e13a9ee4e6d1f24f60e.8.0.0.2.js",
+        "https://cdn.eadplataforma.app/assets/master/site/app.main.3a647f3a441edea34c36.8.0.0.2.js"
+      ],
+      "css": [
+        "https://cdn.eadplataforma.app/assets/master/site/main.8e2934958666bd1e19bc.8.0.0.2.css",
+        "https://cdn.eadplataforma.app/assets/master/site/main.5d53a439ef36b4ff8b40.8.0.0.2.css"
+      ]
+    }
+  }
+}
